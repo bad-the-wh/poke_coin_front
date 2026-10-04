@@ -76,7 +76,7 @@ Compiles and minifies files into the dist/ production bundle.
 yarn lint
 ```
 
-##🐳 Containerized Deployment
+## 🐳 Containerized Deployment
 To build and run the frontend inside a Docker container:
 
 ```Bash
